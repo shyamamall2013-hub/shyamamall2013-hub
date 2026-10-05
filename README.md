@@ -11,94 +11,21 @@ I have experience in MIS reporting, Excel-based data analysis, reporting automat
 Programming & Data Analysis
 
 🐍 Python
-
 🐼 Pandas
-
 📊 Data Analysis & Data Cleaning
 
 Database
 
 🗄️ SQL
-
 🐬 MySQL
 
 Visualization & Business Intelligence
 
 📈 Power BI
-
 📊 Excel
-
 📋 Dashboard Development
-
 📉 Data Visualization
 
-📂 Featured Projects
-
-📌 Customer Churn Analysis
-
-Tools: Python | SQL | Power BI | Excel
-
-Analyzed customer behavior and churn patterns.
-
-Performed data cleaning and exploratory data analysis.
-
-Created SQL queries to generate business insights.
-
-Developed an interactive Power BI dashboard.
-
-Identified high-risk customers and revenue at risk.
-
-📌 E-Commerce Sales Analysis
-
-Tools: Python | Pandas | Excel
-
-Cleaned and analyzed e-commerce sales data.
-
-Performed customer and product-level analysis.
-
-Identified sales trends and top-performing categories.
-
-Created visualizations to communicate business insights.
-
-📌 PhonePe Transaction Analysis
-
-Tools: Power BI | SQL | Excel
-
-Analyzed transaction trends and transaction values.
-
-Created interactive Power BI dashboards.
-
-Compared transaction performance across different categories.
-
-Generated insights from transaction data.
-
-🎯 Currently Learning
-
-Advanced SQL
-
-Python for Data Analysis
-
-Power BI & DAX
-
-Data Modeling
-
-SQL Query Optimization
-
-Advanced Excel
-
-💼 Professional Experience
-
-MIS Team Leader | 7+ Years of MIS Experience
-
-MIS reporting and business data analysis
-
-Advanced Excel reporting and dashboards
-
-Team management and performance tracking
-
-Client communication and business reporting
-
-Preparing management reports and actionable insights
 
 📈 My Goal
 
