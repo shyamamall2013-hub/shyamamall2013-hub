@@ -20,10 +20,10 @@ I have experience in MIS reporting, Excel-based data analysis, and team manageme
   
 - Visualization & Business Intelligence
 
-📈 Power BI
-📊 Matplotlib
-📈 Seaborn
-📗 Excel
+  📈 Power BI
+  📊 Matplotlib
+  📈 Seaborn
+  📗 Excel
 
 
 📈 My Goal
