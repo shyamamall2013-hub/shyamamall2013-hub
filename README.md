@@ -8,59 +8,22 @@ I have experience in MIS reporting, Excel-based data analysis, and team manageme
 
 🛠️ Skills & Technologies
 
-### 🐍 Programming & Data Analysis
+- Programming & Data Analysis
 
-- 🐍 Python
-- 🐼 Pandas
-- 🔢 NumPy
-- 📊 Matplotlib
-- 📈 Seaborn
+  🐍 Python
+  💻 SQL
+  🧮 DAX
+  
+- Database
 
-Programming & Data Analysis
-
-🐍 Python
-🐼 Pandas
-
-📊 Data Analysis & Data Cleaning
-
-🗄️ Database & SQL
-
-- 🐬 MySQL
-- 💻 SQL
-- 🔗 Joins
-- 🔗 CTEs
-- 🔍 Subqueries
-- 🪟 Window Functions
-- ➕ Aggregations
-- ⚡ Query Optimization
-
-Database
-
-🐬 MySQL
-### 📈 Business Intelligence
-
-- 📊 Power BI
-- 🧮 DAX
-- 🔄 Power Query
-- 🗂️ Data Modeling
-- 🎯 KPI Development
-- 📈 Interactive Dashboards
-
-  ### 📗 Microsoft Excel
-
-- 📊 Pivot Tables
-- 🔎 XLOOKUP
-- 🧠 IF / Nested IF
-- 🔢 Conditional Functions
-- 🧹 Data Cleaning
-- 📈 Reporting & Dashboarding
-
-Visualization & Business Intelligence
+  🐬 MySQL
+  
+- Visualization & Business Intelligence
 
 📈 Power BI
-📊 Excel
-📋 Dashboard Development
-📉 Data Visualization
+📊 Matplotlib
+📈 Seaborn
+📗 Excel
 
 
 📈 My Goal
